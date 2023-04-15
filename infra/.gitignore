@@ -1,0 +1,6 @@
+backend.tf
+.terraform
+*.tfstate*
+
+# Why: This is a example repository for the Terraform.
+.terraform.lock.hcl
